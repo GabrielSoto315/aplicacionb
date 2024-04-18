@@ -1,0 +1,3 @@
+mode: set
+aplicacionb/main.go:7.13,9.2 1 0
+aplicacionb/main.go:11.40,13.2 1 1
